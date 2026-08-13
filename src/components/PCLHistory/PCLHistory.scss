@@ -1,0 +1,26 @@
+.pcl-history {
+    margin-top: 24px;
+}
+
+.pcl-list {
+    display: grid;
+    gap: 14px;
+}
+
+.pcl-entry {
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    padding: 16px;
+    border: 1px solid #e2e8f0;
+    border-radius: 14px;
+    background: #fafbff;
+}
+
+.pcl-event {
+    font-weight: 700;
+}
+
+.pcl-result {
+    color: #0f172a;
+}
